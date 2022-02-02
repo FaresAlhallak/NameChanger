@@ -1,0 +1,16 @@
+C:\Users\fares\source\repos\NameChanger\NameChanger\bin\Debug\net5.0\NameChanger.exe
+C:\Users\fares\source\repos\NameChanger\NameChanger\bin\Debug\net5.0\NameChanger.deps.json
+C:\Users\fares\source\repos\NameChanger\NameChanger\bin\Debug\net5.0\NameChanger.runtimeconfig.json
+C:\Users\fares\source\repos\NameChanger\NameChanger\bin\Debug\net5.0\NameChanger.runtimeconfig.dev.json
+C:\Users\fares\source\repos\NameChanger\NameChanger\bin\Debug\net5.0\NameChanger.dll
+C:\Users\fares\source\repos\NameChanger\NameChanger\bin\Debug\net5.0\ref\NameChanger.dll
+C:\Users\fares\source\repos\NameChanger\NameChanger\bin\Debug\net5.0\NameChanger.pdb
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\NameChanger.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\NameChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\NameChanger.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\NameChanger.AssemblyInfo.cs
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\NameChanger.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\NameChanger.dll
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\ref\NameChanger.dll
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\NameChanger.pdb
+C:\Users\fares\source\repos\NameChanger\NameChanger\obj\Debug\net5.0\NameChanger.genruntimeconfig.cache
